@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Homemade Apple', cursive;
+  background-image: url(../ham.jpg);
+}
+
+h1 {
+  color: #b65e48;
+  font-size:2.75rem;
+  text-align: center;
+  margin-top: 152px;
+}
+
+button {
+  margin-left: 40%;
+  width: 30%;
+  height: 75px;
+  border-radius: 10%;
+  font-size:1.5rem;
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+  color: #b65e48;
+  text-align: center;
+  font-size:1.5rem;
+  opacity: inherit;
+}
